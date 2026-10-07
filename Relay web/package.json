@@ -1,0 +1,13 @@
+{
+  "name": "camera-relay",
+  "version": "1.0.0",
+  "description": "Relay WebSocket para câmera do celular e ESP32",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "ws": "^8.18.0"
+  }
+}
